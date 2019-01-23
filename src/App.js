@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import TreeView from './components/TreeView/TreeView';
 
 //styles
 import './App.scss';
@@ -14,6 +15,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        <TreeView/>
         <p>Hello World!</p>
       </div>
     );

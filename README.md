@@ -9,6 +9,8 @@
       $ git config --global user.name "Luke Vandekieft"
       $ git config --global user.email "vandekie@gmail.com"
 
+* Install React extension in Chrome - Google for link.
+
 
 ## Tips and commands
 
@@ -28,3 +30,9 @@
 * Other Keyboard shortcuts (Mac & VS Code):
 
       https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+### Components used in project
+
+* React TreeView
+
+      https://github.com/chenglou/react-treeview
