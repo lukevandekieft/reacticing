@@ -27,9 +27,19 @@
 
       ⌘ + Shift + P
 
+* Find and replace: 
+
+      ⌘ + Shift + H
+
 * Other Keyboard shortcuts (Mac & VS Code):
 
       https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+## Mac
+
+* Chrome Dev Tools:
+
+      Option + ⌘ + J
 
 ### Components used in project
 
